@@ -1,0 +1,23 @@
+/* skip this line */
+:root{
+    --basic: #aaaaaa; /* for paragraph --*/
+    --header: #aaaaaa;
+        font-family: 'Times New Roman', Garmond, serif;
+        background-color: #1a1b1b;
+    }
+
+    div{
+        width: 400px;
+        height: 200px;
+        border: 10px solid #fbfcfc;
+        background-color: #aaaaaa;
+        border-radius: 0%;
+    }
+
+    
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+    }
